@@ -1,0 +1,13 @@
+//用*打印图案，转义字符的使用
+#include<stdio.h>
+void main()
+{
+printf("\t\t* * * * *\n");
+printf("\t\t*       *\n");
+printf("\t\t*       *\n");
+printf("\t\t* * * * *\n");
+
+printf("\t\t    *    \n");
+printf("\t\t  *    * \n");
+printf("\t\t*  *  *  *\n");
+}
